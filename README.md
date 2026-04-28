@@ -22,7 +22,7 @@ I'm a high school researcher based in FL, focused on main topis of of **cybersec
 
 ```python
 languages  = ["Python", "HTML", "CSS", "JavaScript"]
-ml_tools   = ["BERT", "PyTorch", "HuggingFace", "scikit-learn"]
+ml_tools   = ["BERT", "PyTorch", "scikit-learn"]
 interests  = ["Cybersecurity", "Machine Learning", "NLP", "Threat Detection"]
 currently  = "Building // upgrading PhishGuard + learning more about on-device AI"
 ```
