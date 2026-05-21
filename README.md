@@ -1,6 +1,7 @@
 # Hey, I'm Kali!
 
-I'm a high school researcher based in FL, focused on main topis of of **cybersecurity and artificial intelligence**. I build tools that can help solve atual security problems — starting with phishing, one of the most widespread and underestimated threats in digital communication.
+I'm a high school researcher based in FL, focused on the main topics of **cybersecurity and artificial intelligence**. I build tools that can help solve actual security problems — starting with phishing, one of the most widespread and underestimated threats in digital communication.
+I'm also into Hackathons, I do them for experience or just to learn along the way. Typically, I run solo.
 
 ---
 
@@ -56,5 +57,3 @@ I'm always open to connecting with other researchers, developers, or anyone inte
 ---
 
 *"The best way to learn security is to build something worth protecting."*
-
-*also I fw alot of cuisine. 👀*
