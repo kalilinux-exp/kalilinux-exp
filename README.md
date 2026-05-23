@@ -1,6 +1,6 @@
 # Hey, I'm Kalixte — @kalilinux-exp
 
-High school researcher based in FL. I focus on **cybersecurity and AI** — building tools that solve real security problems. I'm big on hackathons and usually run solo.
+High school researcher based in FL. I focus on **cybersecurity** — building tools that solve real security problems. I'm big on hackathons and usually run solo.
 
 ---
 
@@ -29,7 +29,7 @@ Alongside the browser tool, a standalone BERT classifier trained on the UCI SMS 
 ## Stack
 
 ```python
-languages  = ["Python", "HTML", "CSS", "JavaScript"]
+languages  = ["Python", "HTML", "JavaScript"]
 ml_tools   = ["BERT", "PyTorch", "scikit-learn", "transformers"]
 interests  = ["Cybersecurity", "Machine Learning", "NLP", "Threat Detection"]
 currently  = "Upgrading PhishGuard + building more security tooling"
