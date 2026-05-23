@@ -1,4 +1,4 @@
-# Hey, I'm Kalixte — @kalilinux-exp
+# Hi, I'm Kalixte — @kalilinux-exp
 
 High school researcher based in FL. I focus on **cybersecurity** — building tools that solve real security problems. I'm big on hackathons and usually run solo.
 
