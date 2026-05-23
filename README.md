@@ -1,58 +1,61 @@
-# Hey, I'm Kali!
+# Hey, I'm Kalixte — @kalilinux-exp
 
-I'm a high school researcher based in FL, focused on the main topics of **cybersecurity and artificial intelligence**. I build tools that can help solve actual security problems — starting with phishing, one of the most widespread and underestimated threats in digital communication.
-I'm also into Hackathons, I do them for experience or just to learn along the way. Typically, I run solo.
-
----
-
-##  Featured Project — PhishGuard
-
-> An AI-powered phishing detector for SMS messages and emails, built from scratch using BERT, domain verification, and typosquat detection.
-
-**What makes it different:**
-- Runs entirely on-device — your messages never leave your browser
-- Uses Google's BERT language model to understand *context*, not just keywords
-- Three detection layers: AI analysis + domain verification + typosquat detection
-- Achieves 97.4% accuracy on the UCI SMS Spam Collection dataset
-
-**[ Live Demo](https://kalilinux-exp.github.io/Phishguard)** · **[📁 View Code](https://github.com/kalilinux-exp/Phishguard)**
+High school researcher based in FL. I focus on **cybersecurity and AI** — building tools that solve real security problems. I'm big on hackathons and usually run solo.
 
 ---
 
-##  What I Work With
+## Projects
+
+### 🛡 PhishGuard
+> Browser-based phishing detector with three analysis layers — no data ever leaves your device.
+
+- **Message Analysis** — scans for urgency language, suspicious links, and phishing keyword patterns  
+- **Domain Verification** — catches typosquatting (`paypa1.com`), free provider abuse, and suspicious TLDs  
+- **Header Analysis** — parses `Received` chain hops, SPF/DKIM/DMARC results, and Reply-To mismatches  
+
+Alongside the browser tool, a standalone BERT classifier trained on the UCI SMS Spam Collection hits **97.4% accuracy**.
+
+**[Live Demo](https://kalilinux-exp.github.io/Phishguard)** · **[Source](https://github.com/kalilinux-exp/Phishguard)**
+
+---
+
+### 🏥 ClinicFinder
+> Find free and low-cost clinics near you, with crowd-sourced wait time data. Built solo for HackAmerica.
+
+**[Source](https://github.com/kalilinux-exp/ClinicFinder)**
+
+---
+
+## Stack
 
 ```python
 languages  = ["Python", "HTML", "CSS", "JavaScript"]
-ml_tools   = ["BERT", "PyTorch", "scikit-learn"]
+ml_tools   = ["BERT", "PyTorch", "scikit-learn", "transformers"]
 interests  = ["Cybersecurity", "Machine Learning", "NLP", "Threat Detection"]
-currently  = "Building // upgrading PhishGuard + learning more about on-device AI"
+currently  = "Upgrading PhishGuard + building more security tooling"
 ```
 
 ---
 
-##  What I'm Working On
+## What I'm Working On
 
--  Expanding PhishGuard with more phishing datasets and edge case handling
--  Exploring how to compress BERT further for true mobile deployment
--  Writing a research paper on context-aware vs keyword-based phishing detection
--  Preparing submissions for Regeneron STS and the Congressional App Challenge
+- Expanding PhishGuard's dataset coverage and edge case handling
+- Writing up research on context-aware vs keyword-based phishing detection
+- Preparing submissions for Regeneron STS and the Congressional App Challenge
 
 ---
 
-##  GitHub Stats
+## Stats
 
-![Kalixte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalilinux-exp&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Kalixte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalilinux-exp&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-*Yeah it may be new, Just because I lost my old GitHub, but. That's alright!*
 ---
 
-##  Get In Touch
+## Get In Touch
 
-I'm always open to connecting with other researchers, developers, or anyone interested in cybersecurity and AI.
+Open to connecting with other researchers, developers, or anyone interested in security and AI. Reach me through GitHub — I check often.
 
--  Reach me through GitHub, I check often.
-- I am planning to just, get more sites so you are able to contact me at. 
-- 🌐 Project: [kalilinux-exp.github.io/Phishguard](https://kalilinux-exp.github.io/Phishguard)
+🌐 [kalilinux-exp.github.io/Phishguard](https://kalilinux-exp.github.io/Phishguard)
 
 ---
 
