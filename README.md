@@ -1,10 +1,12 @@
 # Hi, I'm Kalixte — @kalilinux-exp
 
-Student researcher based in FL. I focus on **cybersecurity** — building tools that solve real security problems. I'm big on hackathons and usually run solo.
+Student researcher based in NYC. I focus on **cybersecurity** — building tools that solve real security problems!
+- I'm big on hackathons -
+(till ai slop came by...)
 
 ---
 
-## Projects
+## Project
 
 ### 🛡 PhishGuard
 > Browser-based phishing detector with three analysis layers — no data ever leaves your device.
