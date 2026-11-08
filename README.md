@@ -19,13 +19,6 @@ Alongside the browser tool, a standalone BERT classifier trained on the UCI SMS 
 
 ---
 
-### 🏥 ClinicFinder
-> Find free and low-cost clinics near you, with crowd-sourced wait time data. Built solo for HackAmerica.
-
-**[Source](https://github.com/kalilinux-exp/ClinicFinder)**
-
----
-
 ## Stack
 
 ```python
@@ -41,7 +34,7 @@ currently  = "Upgrading PhishGuard + building more security tooling"
 
 - Expanding PhishGuard's dataset coverage and edge case handling
 - Writing up research on context-aware vs keyword-based phishing detection
-- Preparing submissions for Regeneron STS and the Congressional App Challenge
+- Fixing up Clinafind !
 
 ---
 
